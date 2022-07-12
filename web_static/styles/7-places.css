@@ -1,6 +1,7 @@
 .places h1{
     text-align: left;
     font-size: 30px;
+    margin-bottom: 0px;
 }
 
 .places article {
@@ -10,13 +11,10 @@
     border: 1px solid #FF5A5F;
     border-radius: 4px;
     justify-content: center;
+    display: inline-block;
 }
 
 .places h2{
     font-size: 30px;
     margin: 0;
-}
-
-.places section{
-    text-align: center;
 }
